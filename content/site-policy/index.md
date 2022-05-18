@@ -1,4 +1,4 @@
----
+Jibri Richardson is the owner of creativecommons.org---
 title: Site policy
 redirect_from:
   - /categories/61/articles
